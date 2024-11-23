@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HACKATHON\\liberumVeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\controllers\\manager\\websocketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\controllers\\manager\\websocketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\output\\questionstatisticoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\output\\questionstatisticoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\output\\votingsessionoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\output\\votingsessionoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\database\\tables\\questionstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\database\\tables\\questionstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\database\\tables\\votingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\database\\tables\\votingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\output\\questionlistoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\output\\questionlistoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\output\\setoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\output\\setoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\database\\tables\\questionset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\database\\tables\\questionset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|d:\\hackathon\\liberumveto\\liberumveto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F304605-709D-4BDB-9E29-9C5144496FFC}|liberumVeto\\liberumVeto.csproj|solutionrelative:liberumveto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "websocketManager.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\Controllers\\manager\\websocketManager.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\Controllers\\manager\\websocketManager.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\Controllers\\manager\\websocketManager.cs",
+              "RelativeToolTip": "liberumVeto\\Controllers\\manager\\websocketManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:44:22.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "votingSessionOutput.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\output\\votingSessionOutput.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\output\\votingSessionOutput.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\output\\votingSessionOutput.cs",
+              "RelativeToolTip": "liberumVeto\\output\\votingSessionOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:27:15.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "questionStatistic.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\database\\tables\\questionStatistic.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\database\\tables\\questionStatistic.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\database\\tables\\questionStatistic.cs",
+              "RelativeToolTip": "liberumVeto\\database\\tables\\questionStatistic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:26:00.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "questionStatisticOutput.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\output\\questionStatisticOutput.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\output\\questionStatisticOutput.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\output\\questionStatisticOutput.cs",
+              "RelativeToolTip": "liberumVeto\\output\\questionStatisticOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:23:52.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "votingSession.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\database\\tables\\votingSession.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\database\\tables\\votingSession.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\database\\tables\\votingSession.cs",
+              "RelativeToolTip": "liberumVeto\\database\\tables\\votingSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:22:31.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "websocketController.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\Controllers\\websocketController.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\Controllers\\websocketController.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\Controllers\\websocketController.cs",
+              "RelativeToolTip": "liberumVeto\\Controllers\\websocketController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:45:54.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "setOutput.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\output\\setOutput.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\output\\setOutput.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\output\\setOutput.cs",
+              "RelativeToolTip": "liberumVeto\\output\\setOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:47:58.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "questionListOutput.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\output\\questionListOutput.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\output\\questionListOutput.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\output\\questionListOutput.cs",
+              "RelativeToolTip": "liberumVeto\\output\\questionListOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:47:23.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "questionSet.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\database\\tables\\questionSet.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\database\\tables\\questionSet.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\database\\tables\\questionSet.cs",
+              "RelativeToolTip": "liberumVeto\\database\\tables\\questionSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:45:57.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\Program.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\Program.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\Program.cs",
+              "RelativeToolTip": "liberumVeto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:06:45.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\appsettings.json",
+              "RelativeDocumentMoniker": "liberumVeto\\appsettings.json",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\appsettings.json",
+              "RelativeToolTip": "liberumVeto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T20:59:02.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainController.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\Controllers\\mainController.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\Controllers\\mainController.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\Controllers\\mainController.cs*",
+              "RelativeToolTip": "liberumVeto\\Controllers\\mainController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:19:15.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "databaseContext.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\database\\databaseContext.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\database\\databaseContext.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\database\\databaseContext.cs",
+              "RelativeToolTip": "liberumVeto\\database\\databaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:54:54.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "97ce6f4a-beaa-4923-85ff-26f002629fff",
+        "Display": 1,
+        "X": 1,
+        "Y": 1,
+        "Width": 1364,
+        "Height": 718,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sessionManager.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\session\\sessionManager.cs",
+              "RelativeDocumentMoniker": "liberumVeto\\session\\sessionManager.cs",
+              "ToolTip": "D:\\HACKATHON\\liberumVeto\\liberumVeto\\session\\sessionManager.cs",
+              "RelativeToolTip": "liberumVeto\\session\\sessionManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:01:51.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
