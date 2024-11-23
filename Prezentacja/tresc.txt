@@ -1,0 +1,20 @@
+Co to jest Liberum Veto?
+	- System do głosowania
+
+Jak działa to urządzenie?
+	- Użytkownicy głosują za pomocą urządzenia
+	- Mają oni dwie opcje być za lub użyć prawa Liberum Veto
+	- Po każdy głosowaniu generowane są wyniki
+
+Gdzie można używać Liberum Veto?
+	- Zgromadzenia parlamentarne lub radne
+	- Głosowania w firmach, organizacjach
+
+Zalety systemu:
+	- Każdy głos jest ważny
+	- Zapewnia jednomyślne wyniki głosowania
+
+Podsumowanie:
+	- Jest to system do głosowania
+	- W nim każdy głos jest ważny
+	- Uczestnicy podejmują jednomyślne decyzje
