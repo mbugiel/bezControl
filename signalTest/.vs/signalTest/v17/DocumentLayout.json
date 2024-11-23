@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HACKATHON\\signalTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1506E4-ABE3-4B6A-A885-F384BDB73483}|signalTest\\signalTest.csproj|d:\\hackathon\\signaltest\\signaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1506E4-ABE3-4B6A-A885-F384BDB73483}|signalTest\\signalTest.csproj|solutionrelative:signaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HACKATHON\\signalTest\\signalTest\\Program.cs",
+              "RelativeDocumentMoniker": "signalTest\\Program.cs",
+              "ToolTip": "D:\\HACKATHON\\signalTest\\signalTest\\Program.cs",
+              "RelativeToolTip": "signalTest\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:19:22.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
