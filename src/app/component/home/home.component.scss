@@ -1,0 +1,66 @@
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    background-color: rgb(245, 235, 223);
+    padding: 40px;
+}
+.title{
+    font-size: 24px;
+    width: 100%;
+    flex: 2;
+}
+.foto{
+    flex: 3;
+    border: 1px black solid;
+}
+.container{
+    display: flex;
+    padding: 50px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    width: 80%;
+}
+button{
+    border-radius: 15px;
+    height: 50px;
+}
+button:hover{
+    color: white;
+    background-color: rgb(78, 130, 234);
+
+}
+section {
+    display: table;
+  }
+  
+  .example-label {
+    display: table-cell;
+    font-size: 14px;
+    margin-left: 8px;
+    min-width: 120px;
+  }
+  
+  .example-button-row {
+    display: table-cell;
+    max-width: 600px;
+  }
+  
+  .example-button-row .mat-mdc-button-base {
+    margin: 8px 8px 8px 0;
+  }
+  
+  .example-flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .example-button-container {
+    display: flex;
+    justify-content: center;
+    width: 120px;
+  }
+  

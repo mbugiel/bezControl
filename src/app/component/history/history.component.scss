@@ -1,0 +1,92 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 40px;
+  }
+  
+  h2 {
+    font-size: 50px;
+    color: #1976d2;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .sorting {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .sorting button {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #1976d2;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .sorting button:hover {
+    background-color: #1565c0;
+    transform: translateY(-2px);
+  }
+  
+  .masonry-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Dynamiczne kolumny */
+    gap: 20px;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .masonry-item {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .masonry-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  
+  .masonry-item mat-card-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333333;
+  }
+  
+  .masonry-item mat-card-subtitle {
+    font-size: 14px;
+    color: #666666;
+  }
+  
+  .masonry-item mat-card-content p {
+    font-size: 14px;
+    color: #444444;
+    margin: 10px 0;
+  }
+  
+  .masonry-item mat-card-actions button {
+    font-size: 14px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .masonry-item mat-card-actions button:hover {
+    background-color: #1565c0;
+    transform: translateY(-2px);
+  }
+  

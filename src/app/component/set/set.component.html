@@ -1,0 +1,15 @@
+<main>
+  <div class="title">
+    <h1>Zbiór zapisanych zestawów:</h1>
+  </div>
+  <div class="masonry-container">
+    <mat-card class="masonry-item" *ngFor="let card of cards">
+      <div class="card-header">
+        <div class="card-title">{{ card.title }}</div>
+        <div class="icon" (click)="openDialog('300ms', '150ms')">
+          <mat-icon>visibility</mat-icon>
+        </div>
+      </div>
+    </mat-card>
+  </div>
+</main>

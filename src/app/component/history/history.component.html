@@ -1,0 +1,25 @@
+<main>
+  <h2>Historia głosowań:</h2>
+
+  <div class="sorting">
+    <button (click)="sortCards('title')">Sortuj według tytułu</button>
+    <button (click)="sortCards('date')">Sortuj według daty</button>
+  </div>
+
+  <div class="masonry-container">
+    <mat-card *ngFor="let card of cards" class="masonry-item">
+      <mat-card-header>
+        <mat-card-title>{{ card.title }}</mat-card-title>
+        <mat-card-subtitle>{{ card.date | date: 'dd.MM.yyyy' }}</mat-card-subtitle>
+      </mat-card-header>
+      <mat-card-content>
+        <p>
+          Pyatnka pytanka pytanka pyutanka
+        </p>
+      </mat-card-content>
+      <mat-card-actions align="end">
+        <button (click)="openDialog('300ms', '150ms')">Podgląd</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</main>

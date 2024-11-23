@@ -1,0 +1,91 @@
+/* Główne style dla układu */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 40px;
+  }
+  
+  .title {
+    text-align: center;
+  }
+  
+  .title h1 {
+    font-size: 36px;
+    color: #1976d2;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* Układ siatki kart */
+  .masonry-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); /* Dynamiczny układ */
+    gap: 20px;
+    width: 100%;
+    max-width: 1200px; /* Maksymalna szerokość kontenera */
+    padding: 20px;
+  }
+  
+  /* Styl kart */
+  .masonry-item {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .masonry-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Styl nagłówka karty */
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .card-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333333;
+    flex: 1;
+  }
+  
+  .icon {
+    cursor: pointer;
+    color: #1976d2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    transition: color 0.3s ease;
+  }
+  
+  .icon:hover {
+    color: #1565c0;
+  }
+  
+  /* Dodanie większego odstępu i lepszej widoczności */
+  .mat-card {
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+  }
+  
+  .mat-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  

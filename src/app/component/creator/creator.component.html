@@ -1,0 +1,41 @@
+<main>
+    <div class="container">
+      <div class="form">
+        <form class="example-form">
+          <mat-form-field class="example-full-width">
+            <mat-label>Podaj nazwę zestawu</mat-label>
+            <input matInput placeholder="Wprowadź nazwę" id="setName">
+          </mat-form-field>
+          <button mat-raised-button color="primary" (click)="addSet()">Ustaw</button>
+        </form>
+      </div>
+  
+      <div class="form">
+        <form class="example-form">
+          <mat-form-field class="example-full-width">
+            <mat-label>Dodaj pytanie</mat-label>
+            <input matInput placeholder="Wprowadź pytanie" id="question">
+          </mat-form-field>
+          <button mat-raised-button color="accent" (click)="addQuestion()">Dodaj</button>
+        </form>
+      </div>
+    </div>
+  
+    <div class="baza">
+      <h1>Pula: <span id="set-name">Brak nazwy</span></h1>
+      <div class="reszta">
+        <ul>
+          <li *ngFor="let question of questions; let i = index">
+            {{ i + 1 }}. {{ question }}
+            <button mat-icon-button color="warn" (click)="deleteQuestion(i)">
+              delete
+            </button>
+            <button mat-icon-button color="primary" (click)="editQuestion(i)">
+              edit
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </main>
+  
